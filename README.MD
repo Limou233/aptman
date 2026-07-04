@@ -13,6 +13,8 @@
 
 ### 2.手动编译
 
+> 如果您使用CLion 那么直接运行即可
+
 - clone/下载代码
 - `chmod +x build.sh` (AI太好用了你知道吗)
 - `./build.sh`
